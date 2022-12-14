@@ -1,0 +1,16 @@
+{
+  "name": "curriculum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Smch12nntynn.github.io/curriculum",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
