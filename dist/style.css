@@ -19,11 +19,27 @@
     padding: 32px;
 }
 
+.container{
+    padding-bottom: 16px;
+}
+
 li{
-    margin: 24px;
+    margin: 8px;
 }
 
 p{
     width: 90%;
     margin: 20px;
 }
+
+h3 {
+    font-weight:normal;
+    margin: 8px;
+}
+
+.tList{
+    display: flex;
+    justify-content: space-around;
+
+}
+
